@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/nhlseries/static/css/main.31d6cfe0.css",
+    "main.js": "/nhlseries/static/js/main.b5c4000a.js",
+    "index.html": "/nhlseries/index.html",
+    "main.b5c4000a.js.map": "/nhlseries/static/js/main.b5c4000a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b5c4000a.js"
+  ]
+}
